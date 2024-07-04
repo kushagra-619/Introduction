@@ -9,8 +9,6 @@
     <div class="container">
         <h1>Welcome to my GitHub page!</h1>
         <p>I'm <span class="highlight">Kushagra Vashistha</span>, a <span class="highlight">dynamic Data Analytics graduate</span> with a knack for transforming complex data into actionable insights. With hands-on experience as a <span class="highlight">Data Engineer</span> at <span class="highlight">Ample Softech Systems</span>, I've optimized <span class="highlight">ETL processes</span>, developed sophisticated <span class="highlight">data visualizations</span>, and collaborated with cross-functional teams to deliver innovative data solutions. My technical arsenal includes <span class="highlight">Python</span>, <span class="highlight">Tableau</span>, <span class="highlight">SPARK</span>, and <span class="highlight">Snowflake</span>, among others.</p>
-                <h2>Education & Certifications</h2>
-        <p>I hold a <span class="highlight">Master's degree in Data Analytics</span> from <span class="highlight">Clark University</span> and have honed my skills through various certifications and capstone projects, including <span class="highlight">software fault detection using machine learning</span> and <span class="highlight">comprehensive Formula 1 race analysis</span>.</p>
       <h2>Projects</h2>
         <h3>Capstone Project: Software Fault Detection Using Machine Learning</h3>
         <ul>
